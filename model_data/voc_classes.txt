@@ -1,0 +1,17 @@
+Provinsi
+Kota
+NIK
+Nama
+TTL
+Jenis Kelamin
+Gol Darah
+Alamat
+RT/RW
+Kel/Desa
+Kecamatan
+Agama
+Status Perkawinan
+Pekerjaan
+Kewarganegaraan
+Berlaku Hingga
+Tanggal Keluar
